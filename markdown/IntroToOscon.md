@@ -60,7 +60,7 @@ For example, NetFlix doesn't provide rest services, functional design pitfalls (
 
 ####Why OSCON
 ##New Ideas for Tools
-![](images/OSCON/ElectronicPrinter-cropped.jpg) 
+![](images/OSCON/ElectronicPrinter-Cropped.jpg) 
 Note: I will admit that this tool doesn't help PROS much, but it is so cool I had to mention it.
 
 This is a 3D printer, and like many of its competitors it can extrude plastic to build up plastic models. 
